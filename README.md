@@ -1,2 +1,1 @@
-# AngularBankingApplication
-React to angular 
+# simpleBanking
